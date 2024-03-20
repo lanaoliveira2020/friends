@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #8858e02c;
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -38,7 +38,7 @@ body {
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 30%
 }
 
 
