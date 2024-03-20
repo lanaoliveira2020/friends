@@ -29,7 +29,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#6accddb2,rgba(106, 86, 219, 0.74));
+    background-image: linear-gradient(#6accddb2,rgba(106, 86, 219, 0.301));
     color:rgba(137, 113, 245, 0.568);
     display: flex;
     justify-content: center;
